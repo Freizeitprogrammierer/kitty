@@ -7,7 +7,7 @@ package kitty;
 
 /**
  *
- * @author Gina
+ * @author Tobias
  */
 public class Kitty {
 
@@ -16,6 +16,7 @@ public class Kitty {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //jgfghcjhkjg
     }
     
 }
